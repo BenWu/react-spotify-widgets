@@ -1,10 +1,11 @@
 {
   "name": "react-spotify-widgets",
   "description": "React components for Spotify widgets.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "repository": "git+https://github.com/Ben-Wu/react-spotify-widgets.git",
   "author": "Ben Wu",
   "license": "ISC",
+  "main": "index.js",
   "dependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
