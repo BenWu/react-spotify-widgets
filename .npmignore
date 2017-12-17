@@ -1,2 +1,8 @@
 src/
 public/
+static/app_js.js
+
+yarn.lock
+webpack.config.js
+gulpfile.js
+.babelrc
