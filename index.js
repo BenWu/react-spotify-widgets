@@ -1,1 +1,1 @@
-exports.PlayWidget = require('./src/PlayWidget');
+module.exports = require('./static/playwidget');
